@@ -1,73 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Sivia&fontSize=70&fontColor=ffffff&desc=Applied%20AI%20Engineer&descAlignY=65&descSize=22&animation=fadeIn" width="100%"/>
+```text
+███████╗██╗██╗   ██╗██╗ █████╗
+██╔════╝██║██║   ██║██║██╔══██╗
+███████╗██║██║   ██║██║███████║
+╚════██║██║╚██╗ ██╔╝██║██╔══██║
+███████║██║ ╚████╔╝ ██║██║  ██║
+╚══════╝╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝
+```
 
-### Building evaluation systems, RAG infrastructure, and reliable LLM applications.
-### Currently obsessed with making AI systems *measurable* instead of *magical*.
+### Building systems that answer one question:
+### *"Can we actually trust what this AI just did?"*
 
 <p>
   <a href="https://www.linkedin.com/in/sivia-anzal-3a30701b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> -->
-  <!-- <a href="https://your-site.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white"/></a> -->
 </p>
 
 </div>
 
 <br/>
 
-## Currently building
+```bash
+sivia@github:~$ whoami
+Applied AI Engineer
 
-```text
-LLM Evaluation Frameworks
-AI Agent Infrastructure
-RAG Pipelines & Retrieval Quality
-Open Source AI Tooling
+sivia@github:~$ cat focus.txt
+Evaluation. Retrieval. Agents. Making LLM systems measurable, not magical.
+
+sivia@github:~$ ls currently_building/
+evalforge/   agents/   research/
 ```
 
 <br/>
 
-## Featured projects
+## Currently thinking about
+
+- Why do good retrieval systems still hallucinate?
+- Can an LLM evaluate another LLM reliably?
+- How much does chunking actually matter?
+- What makes an agent trustworthy?
+- What should an AI benchmark really measure?
+
+<br/>
+
+## Things I keep coming back to
+
+- Retrieval quality shouldn't be invisible.
+- Prompt engineering shouldn't be guesswork.
+- Every AI system should have tests.
+- Benchmarks are products too.
+- "Looks good" isn't an evaluation metric.
+
+<br/>
+
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [EvalForge](https://github.com/sivia1/evalforge)
-**RAG evaluation toolkit**
-
-Retrieval metrics · LLM-as-judge · AI-assisted Golden Dataset curation · regression gate for RAG pipelines.
-
-`Python` `FastAPI` `React`
+```
+╭──────────────────────────────╮
+│ EvalForge                    │
+├──────────────────────────────┤
+│ Evaluate RAG systems like    │
+│ software, not demos.         │
+│                               │
+│ ✓ Retrieval metrics          │
+│ ✓ LLM-as-Judge               │
+│ ✓ Golden datasets            │
+│ ✓ Regression gate            │
+╰──────────────────────────────╯
+```
+[→ github.com/sivia1/evalforge](https://github.com/sivia1/evalforge)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎧 [Audio Pipeline](https://github.com/sivia1/AUDIO_PIPELINE)
-**End-to-end audio processing**
-
-Speaker diarization · ASR · chunking · embeddings.
-
-`Python`
+```
+╭──────────────────────────────╮
+│ Audio Pipeline                │
+├──────────────────────────────┤
+│ End-to-end audio processing  │
+│                               │
+│ ✓ Speaker diarization        │
+│ ✓ ASR                        │
+│ ✓ Chunking                   │
+│ ✓ Embeddings                 │
+╰──────────────────────────────╯
+```
+[→ github.com/sivia1/AUDIO_PIPELINE](https://github.com/sivia1/AUDIO_PIPELINE)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Gob Agent](https://github.com/sivia1/gob-agent)
-**Agent infrastructure**
-
-`Python`
+```
+╭──────────────────────────────╮
+│ Gob Agent                     │
+├──────────────────────────────┤
+│ Agent infrastructure          │
+│ experiments                   │
+╰──────────────────────────────╯
+```
+[→ github.com/sivia1/gob-agent](https://github.com/sivia1/gob-agent)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [ML in Neuroscience](https://github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory)
-**Information theory applied to neuroscience**
-
-EEG / signal analysis through an information-theoretic lens.
-
-`MATLAB`
+```
+╭──────────────────────────────╮
+│ ML in Neuroscience             │
+├──────────────────────────────┤
+│ Information theory applied   │
+│ to EEG / signal analysis     │
+╰──────────────────────────────╯
+```
+[→ github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory](https://github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory)
 
 </td>
 </tr>
@@ -75,33 +125,50 @@ EEG / signal analysis through an information-theoretic lens.
 
 <br/>
 
-## Tech stack
+## Things I enjoy building
 
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+📊 Evaluation pipelines · 🧠 AI agents · 📚 Retrieval systems · ⚙️ ML tooling · 🔬 Experiment infrastructure · 📈 Observability
 
 <br/>
 
-## GitHub stats
+## Things I've learned the hard way
+
+- Bigger context windows don't solve retrieval.
+- Most AI demos break in production.
+- Evaluation is harder than generation.
+- Benchmarks are surprisingly fragile.
+- Every prompt eventually regresses.
+
+<br/>
+
+## Research log
+
+```text
+07/2026 — EvalForge
+
+✓ Built retrieval metrics, LLM-as-judge, golden dataset curation, regression gate.
+→ Learned that retrieval metrics alone don't explain answer quality.
+
+Currently exploring:
+  • Multi-agent evaluation
+  • Synthetic golden data generation
+  • Adaptive reranking
+```
+
+<br/>
+
+## Quest log
+
+```text
+[x] Build an evaluation toolkit
+[x] Deploy AI systems
+[x] Build production pipelines
+[ ] Open-source an agent framework
+[ ] Publish AI evaluation research
+[ ] Build something 10,000 developers use
+```
+
+<br/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sivia1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -114,26 +181,8 @@ EEG / signal analysis through an information-theoretic lens.
 
 <br/>
 
-## Engineering philosophy
+<div align="center">
 
-I enjoy building AI systems that can be trusted. I'm particularly interested in
-evaluation, retrieval quality, observability, and making LLM applications
-measurable rather than just impressive in a demo.
-
-<br/>
-
-## 2026 roadmap
-
-```text
-Done
-  ✅ EvalForge — RAG evaluation toolkit
-  ✅ Audio processing pipeline
-  ✅ AI evaluation work (internship)
-
-Next
-  ☐ Multi-agent evaluation
-  ☐ LLM benchmark suite
-  ☐ Open source AI SDK
-```
+> "If you can't evaluate it, you can't improve it."
 
 </div>
