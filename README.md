@@ -69,12 +69,12 @@ Speaker diarization · ASR · chunking · embeddings.
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [ML in Neuroscience](https://github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory)
-**Information theory applied to neuroscience**
+### 🧪 [PromptLab](https://github.com/sivia1/promptlab)
+**Multi-LLM prompt benchmarking playground**
 
-EEG / signal analysis through an information-theoretic lens.
+Compare prompts and models side by side across OpenAI/Anthropic/Gemini/Groq/OpenRouter — LLM-as-judge, BLEU/ROUGE-L, latency, tokens, and cost, per run.
 
-`MATLAB`
+`Python` `FastAPI` `React`
 
 </td>
 </tr>
@@ -169,8 +169,8 @@ measurable rather than just impressive in a demo.
 ```text
 ✓ Reliable RAG evaluation
 ✓ Production AI systems
+✓ PromptLab — prompt & LLM benchmarking
 
-☐ PromptLab — prompt experimentation & versioning
 ☐ TraceLens — AI agent observability
 ☐ Context Optimizer — retrieval context selection & compression
 ```
