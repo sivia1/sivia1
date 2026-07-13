@@ -2,14 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f3ead3,100:d9c3a3&height=150&section=header&text=sivia&fontSize=55&fontColor=4a3b2a&fontAlignY=55&fontFamily=Playfair%20Display" width="100%"/>
 
-<img src="https://media.tenor.com/EDkwc6V_2lcAAAAm/leaves.webp" width="180"/>
-
 ### Applied AI Engineer
 ### Building evaluation systems, RAG infrastructure, and reliable LLM applications.
-### Currently obsessed with making AI systems *measurable* instead of *magical*.
 
 <p>
   <a href="https://www.linkedin.com/in/sivia-anzal-3a30701b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/svi23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
@@ -111,6 +109,16 @@ EEG / signal analysis through an information-theoretic lens.
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivia1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+## LeetCode
+
+<div align="center">
+
+[![svi23 LeetCode Stats](https://leetcard.jacoblin.cool/svi23?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/svi23/)
+
 </div>
 
 <br/>
