@@ -158,18 +158,15 @@ measurable rather than just impressive in a demo.
 
 <br/>
 
-## 2026 roadmap
+## Building toward
 
 ```text
-Done
-  ✅ EvalForge — RAG evaluation toolkit
-  ✅ Audio processing pipeline
-  ✅ AI evaluation work (internship)
+✓ Reliable RAG evaluation
+✓ Production AI systems
 
-Next
-  ☐ Multi-agent evaluation
-  ☐ LLM benchmark suite
-  ☐ Open source AI SDK
+☐ Multi-agent evaluation
+☐ Open-source AI tooling
+☐ Research on evaluation benchmarks
 ```
 
 </div>
