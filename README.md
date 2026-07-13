@@ -16,6 +16,12 @@
 
 <br/>
 
+## Currently
+
+**Software Engineer Intern @ Kim.cc** — working on AI evaluation frameworks and infrastructure.
+
+<br/>
+
 ## Currently building
 
 ```text
