@@ -4,9 +4,8 @@
 
 <img src="https://dummyimage.com/180x3/d4af6e/d4af6e.png" width="180"/>
 
-### Software Engineer
-### Building evaluation systems, RAG infrastructure, and reliable LLM applications.
-### Looking for full-time roles in full stack, backend, and AI.
+### Software Engineer • AI Systems • Backend
+### Building evaluation systems, RAG infrastructure, and production AI applications.
 
 <p>
   <a href="https://www.linkedin.com/in/sivia-anzal-3a30701b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -14,18 +13,6 @@
 </p>
 
 </div>
-
-<br/>
-
-## Recommendations received
-
-> I've had the pleasure of working with Sivia and have always been impressed by her professionalism, ownership, and collaborative approach. She consistently brings a positive attitude to every challenge and has a strong ability to execute while keeping the team's goals in mind.
->
-> What stands out most is her willingness to take initiative, communicate openly, and support those around her. She's dependable, thoughtful, and someone you can trust to deliver high-quality work.
->
-> I would gladly recommend Sivia to any team looking for someone who combines strong execution with a collaborative mindset. Wishing her continued success in everything she takes on.
->
-> — **Kaushik Barodiya**, CTO & Co-founder @ Kim.cc
 
 <br/>
 
@@ -86,6 +73,18 @@ EEG / signal analysis through an information-theoretic lens.
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Recommendations received
+
+> I've had the pleasure of working with Sivia and have always been impressed by her professionalism, ownership, and collaborative approach. She consistently brings a positive attitude to every challenge and has a strong ability to execute while keeping the team's goals in mind.
+>
+> What stands out most is her willingness to take initiative, communicate openly, and support those around her. She's dependable, thoughtful, and someone you can trust to deliver high-quality work.
+>
+> I would gladly recommend Sivia to any team looking for someone who combines strong execution with a collaborative mindset. Wishing her continued success in everything she takes on.
+>
+> — **Kaushik Barodiya**, CTO & Co-founder @ Kim.cc
 
 <br/>
 
