@@ -170,9 +170,9 @@ measurable rather than just impressive in a demo.
 ✓ Reliable RAG evaluation
 ✓ Production AI systems
 
-☐ Multi-agent evaluation
-☐ Open-source AI tooling
-☐ Research on evaluation benchmarks
+☐ PromptLab — prompt experimentation & versioning
+☐ TraceLens — AI agent observability
+☐ Context Optimizer — retrieval context selection & compression
 ```
 
 </div>
