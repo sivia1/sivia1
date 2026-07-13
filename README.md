@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f3ead3,100:d9c3a3&height=150&section=header&text=sivia&fontSize=55&fontColor=4a3b2a&fontAlignY=55&fontFamily=Playfair%20Display" width="100%"/>
 
-### Applied AI Engineer
+### Software Engineer
 ### Building evaluation systems, RAG infrastructure, and reliable LLM applications.
+### Looking for full-time roles in full stack, backend, and AI.
 
 <p>
   <a href="https://www.linkedin.com/in/sivia-anzal-3a30701b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -76,27 +77,29 @@ EEG / signal analysis through an information-theoretic lens.
 
 ## Tech stack
 
-**AI / ML**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend**
+**Frameworks**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Data & infra**
+
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br/>
 
@@ -118,6 +121,17 @@ EEG / signal analysis through an information-theoretic lens.
 <div align="center">
 
 [![svi23 LeetCode Stats](https://leetcard.jacoblin.cool/svi23?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/svi23/)
+
+<br/>
+
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="70"/></a>
+<a href="https://leetcode.com/u/svi23/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="70"/></a>
 
 </div>
 
