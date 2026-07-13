@@ -40,7 +40,7 @@ What does trustworthy AI even mean?
 
 ↓
 
-[**EvalForge**](https://github.com/sivia1/evalforge) — wanted a real way to know if a RAG system had gotten better, not just different. Built it. The metrics agreed with each other and still didn't explain answer quality. Still chewing on that one.
+[**EvalForge**](https://github.com/sivia1/evalforge) — wanted a real way to know if a RAG system had gotten better, not just different. The metrics agreed with each other and still didn't explain answer quality. Still chewing on that one. Retrieval metrics, LLM-as-judge, golden datasets, a regression gate.
 
 <br/>
 
@@ -48,7 +48,7 @@ What does trustworthy AI even mean?
 
 ↓
 
-[**Audio Pipeline**](https://github.com/sivia1/AUDIO_PIPELINE) — started as speech recognition, ended up an exploration of how messy human conversation actually is.
+[**Audio Pipeline**](https://github.com/sivia1/AUDIO_PIPELINE) — started as speech recognition (250+ hours, transcribed for training data), ended up an exploration of how messy human conversation actually is.
 
 <br/>
 
@@ -60,11 +60,7 @@ What does trustworthy AI even mean?
 
 <br/>
 
-**What happens if you let an agent make its own decisions?**
-
-↓
-
-[**Gob Agent**](https://github.com/sivia1/gob-agent) — small experiments in agent infrastructure. Mostly it teaches me what I didn't account for.
+*smaller spells:* [**Gob Agent**](https://github.com/sivia1/gob-agent) — agent infrastructure that mostly teaches me what I didn't account for.
 
 <br/>
 
@@ -80,6 +76,10 @@ What does trustworthy AI even mean?
 
 Realized today that benchmark accuracy and user trust aren't the same thing.
 Need a better way to measure the second one.
+
+<br/>
+
+<sub>the ledger, for the scorekeepers — rank 68 of 5000+ at ICPC AlgoQueen; 650+ problems and one stubborn rating climb; ran a room of 60 people, mostly by asking good questions.</sub>
 
 <br/>
 
