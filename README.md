@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Sivia&fontSize=90&fontColor=2dd4bf&fontAlignY=55&height=170&fontFamily=Great%20Vibes" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Sivia%20Anzal&fontSize=68&fontColor=ffffff&fontAlignY=55&height=140&fontFamily=Cormorant%20Garamond" width="100%"/>
+
+<img src="https://dummyimage.com/180x3/d4af37/d4af37.png" width="180"/>
 
 ### Software Engineer
 ### Building evaluation systems, RAG infrastructure, and reliable LLM applications.
