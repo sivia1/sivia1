@@ -1,99 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b1500,100:5c1a1a&height=160&section=header&text=sivia&fontSize=60&fontColor=e8c874&fontAlignY=55&animation=fadeIn&fontFamily=Playfair%20Display" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f3ead3,100:d9c3a3&height=150&section=header&text=sivia&fontSize=55&fontColor=4a3b2a&fontAlignY=55&fontFamily=Playfair%20Display" width="100%"/>
 
-<img src="https://media.tenor.com/80Sap7SwW_UAAAAm/devanpotte.webp" width="110"/>
+<img src="https://media.tenor.com/EDkwc6V_2lcAAAAm/leaves.webp" width="180"/>
 
-*a notebook, mostly. the kind with pressed leaves and coffee rings in it.*
+*field notes, mostly.*
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://media.tenor.com/UtfGo8d_XR4AAAAM/divider-stars.gif" width="220"/>
-</div>
+## 🌿 things I've become obsessed with
 
 <br/>
 
-## Chapter I — Questions I haven't answered yet
-
-Why do retrieval metrics fail to predict answer quality?
-
-How much of "reasoning" is actually just retrieval?
-
-What does trustworthy AI even mean?
+**reliability** — [EvalForge](https://github.com/sivia1/evalforge). wanted a real way to know if a RAG system had gotten better, not just different. the metrics agreed with each other and still didn't explain answer quality. still chewing on that one.
 
 <br/>
 
-<div align="center">
-<img src="https://media.tenor.com/UtfGo8d_XR4AAAAM/divider-stars.gif" width="220"/>
-</div>
+**conversation** — [Audio Pipeline](https://github.com/sivia1/AUDIO_PIPELINE). started as speech recognition, ended up an exploration of how messy human conversation actually is.
 
 <br/>
 
-## Chapter II — Spells I've cast
+**signal** — [ML + Neuroscience](https://github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory). information theory applied to EEG. signal, not noise — or trying to tell the difference.
 
 <br/>
 
-**Why is evaluating AI harder than generating text?**
-
-↓
-
-[**EvalForge**](https://github.com/sivia1/evalforge) — wanted a real way to know if a RAG system had gotten better, not just different. The metrics agreed with each other and still didn't explain answer quality. Still chewing on that one. Retrieval metrics, LLM-as-judge, golden datasets, a regression gate.
+**autonomy** — [Gob Agent](https://github.com/sivia1/gob-agent). small experiments in letting a system make its own decisions. mostly it teaches me what I didn't account for.
 
 <br/>
 
-**Can audio become searchable?**
+## 🖋️ things I reach for
 
-↓
-
-[**Audio Pipeline**](https://github.com/sivia1/AUDIO_PIPELINE) — started as speech recognition (250+ hours, transcribed for training data), ended up an exploration of how messy human conversation actually is.
+🐍 Python &nbsp;·&nbsp; ⚡ FastAPI &nbsp;·&nbsp; 🐹 Go &nbsp;·&nbsp; 📊 PostgreSQL &nbsp;·&nbsp; 🧵 Redis &nbsp;·&nbsp; 🐳 Docker &nbsp;·&nbsp; ☁️ AWS
 
 <br/>
 
-**Can information theory explain neural activity?**
+## 📖 field notebook
 
-↓
-
-[**ML + Neuroscience**](https://github.com/sivia1/Machine-learning-in-neuroscience-using-Information-Theory) — signal, not noise. Or at least, trying to tell the difference.
-
-<br/>
-
-*smaller spells:* [**Gob Agent**](https://github.com/sivia1/gob-agent) — agent infrastructure that mostly teaches me what I didn't account for.
-
-<br/>
-
-<div align="center">
-<img src="https://media.tenor.com/9XflaeJ-mNIAAAAM/golden-snitch.gif" width="70"/>
-</div>
-
-<br/>
-
-## Chapter III — Notebook
-
-`07/12`
-
-Realized today that benchmark accuracy and user trust aren't the same thing.
-Need a better way to measure the second one.
+`07/2026` — realized benchmark accuracy and user trust aren't the same thing. need a better way to measure the second one.
 
 <br/>
 
 <sub>the ledger, for the scorekeepers — rank 68 of 5000+ at ICPC AlgoQueen; 650+ problems and one stubborn rating climb; ran a room of 60 people, mostly by asking good questions.</sub>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
-<img src="https://media.tenor.com/uqqlWYiphYYAAAAm/harry-potter-marauders.webp" width="260"/>
-
-small changes in context, retrieval quality, or tool orchestration
-can completely change an agent. that's what keeps this interesting.
-
-<br/>
-
 [linkedin](https://www.linkedin.com/in/sivia-anzal-3a30701b7/)
-
-<sub>mischief managed.</sub>
 
 </div>
