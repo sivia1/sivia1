@@ -15,6 +15,18 @@
 
 <br/>
 
+## Recommendations received
+
+> I've had the pleasure of working with Sivia and have always been impressed by her professionalism, ownership, and collaborative approach. She consistently brings a positive attitude to every challenge and has a strong ability to execute while keeping the team's goals in mind.
+>
+> What stands out most is her willingness to take initiative, communicate openly, and support those around her. She's dependable, thoughtful, and someone you can trust to deliver high-quality work.
+>
+> I would gladly recommend Sivia to any team looking for someone who combines strong execution with a collaborative mindset. Wishing her continued success in everything she takes on.
+>
+> — **Kaushik Barodiya**, CTO & Co-founder @ Kim.cc
+
+<br/>
+
 ## Currently building
 
 ```text
